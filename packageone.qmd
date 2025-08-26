@@ -1,5 +1,5 @@
 ---
-title: "Work package 1. Ticks in urban and peri-urban areas in response to climate change"
+title: "Work package 1. DPO extraction, Curation  FAIR Compliance"
 format: html
 css: styles.css
 output: html_document
@@ -43,8 +43,7 @@ Work package 1 investigates the relationship between climate change, urbanizatio
 
 ## 🚚 Deliverables:
 
-•	D1.1 - A detailed database and dynamic map illustrating temporal changes in tick distribution across urban and peri-urban areas in selected cities.  
-•	D1.2 - Identification of zoonotic pathogens in urban ticks and assessment of public health risks.  
-•	D1.3 - Modeling the relationships between tick abundance, disease risks, urbanization, host availability, and environmental conditions.  
-•	D1.4 - Recommendations for urban planning and public health policies to mitigate tick-borne disease risks.  
-•	D1.5 - Development of unified protocol for tick collection and reporting.
+•	D1.1 - Curated DPO data lake + FAIR’ness checklist
+•	D1.2 - DPO evaluation/sustainability infrastructure.
+•	D1.3 - FAIR & sustainability guidelines and training for DPO curation [white paper]
+•	D1.4 - Integrated pipeline for research cross-domain studies (complete analysis, de novo workflow, de novo dataset, de novo data query protocols, novel tools or models)
