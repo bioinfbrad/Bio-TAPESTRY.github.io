@@ -1,3 +1,6 @@
+/*-- scss:defaults --*/
+/*-- scss:rules --*/
+
 /* index page layout:
 /* Create a full-screen background for the index page */
 .index-page .hero-image {
@@ -79,7 +82,7 @@
 }
 
 .overview .manyTicks {
-  background-image: url("Logos/manyTicks.png");
+  background-image: url("Logos/manyticks.png");
   background-size: cover; /* Ensures full coverage */
   background-position: center top; /* Ensures correct start position */
   background-attachment: scroll; /* Makes it scrollable */

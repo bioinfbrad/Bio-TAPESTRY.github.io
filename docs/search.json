@@ -25,21 +25,84 @@
     "href": "packagetwo.html#deliverables",
     "title": "Work package 2. The impact of the interaction between tick, host and pathogens on disease occurrence through a tick-specific approach",
     "section": "🚚 Deliverables:",
-    "text": "🚚 Deliverables:\n• D2.1 - Database cataloging European tick species, their vector competence, host preferences, and geographical distribution\n• D2.2 - Machine learning model for assessing the risk of tick bites and following disease occurrence using data on human exposure and tick abundance predictions.\n• D2.3 - Guidelines for tick control strategy."
+    "text": "🚚 Deliverables:\n\nD2.1 - Data Processing Obect Translator\n\nD2.2 - Data processing object Recomender\n\nD2.3 - Cross-domain benschmark/application of the Data Proecssing Object Recommeder"
   },
   {
-    "objectID": "news/2025_02_05.html",
-    "href": "news/2025_02_05.html",
-    "title": "Proposal successfully submitted",
+    "objectID": "packageone.html",
+    "href": "packageone.html",
+    "title": "Work package 1. DPO extraction, Curation FAIR Compliance",
     "section": "",
-    "text": "We are thrilled to announce that our proposal for the MSCA Staff Exchanges has been officially submitted!\nA huge thank you to everyone who contributed their time, expertise, and effort to make this possible. Your support, insights, and collaboration have been invaluable. We are incredibly grateful for the teamwork that brought us to this point.\nNow, we eagerly await the outcome and remain hopeful for a successful result. Fingers crossed!"
+    "text": "Work package 1 investigates the relationship between climate change, urbanization, and tick ecology, focusing on zoonotic risks in urban and peri-urban areas. We aim to assess how ticks adapt to human-dominated environments by studying their presence in locations such as gardens, playgrounds, and parks. We will use sampling techniques to compare tick abundance and species diversity, identify tick-borne disease pathogens, and explore cross-zone transmission pathways. We will also consider cities within various climate ranges to enhance our understanding of urban microclimates as drivers of biodiversity shifts. This interdisciplinary approach seeks to provide valuable insights into public health and urban resilience strategies."
+  },
+  {
+    "objectID": "packageone.html#objectivs",
+    "href": "packageone.html#objectivs",
+    "title": "Work package 1. DPO extraction, Curation FAIR Compliance",
+    "section": "",
+    "text": "Work package 1 investigates the relationship between climate change, urbanization, and tick ecology, focusing on zoonotic risks in urban and peri-urban areas. We aim to assess how ticks adapt to human-dominated environments by studying their presence in locations such as gardens, playgrounds, and parks. We will use sampling techniques to compare tick abundance and species diversity, identify tick-borne disease pathogens, and explore cross-zone transmission pathways. We will also consider cities within various climate ranges to enhance our understanding of urban microclimates as drivers of biodiversity shifts. This interdisciplinary approach seeks to provide valuable insights into public health and urban resilience strategies."
+  },
+  {
+    "objectID": "packageone.html#tasks",
+    "href": "packageone.html#tasks",
+    "title": "Work package 1. DPO extraction, Curation FAIR Compliance",
+    "section": "🚧 Tasks",
+    "text": "🚧 Tasks\n\nTask 1.1 - Standardization of the tick collection protocols\n1.1.a - Develop and implement standardized tick collection protocols, ensuring consistent and comparable data across all study sites.\n1.1.b - Train field teams on protocol adherence and incorporate quality control measures to minimize measurement variability.\n\n\nTask 1.2 - Data collection and field surveys\n1.2.a - Conduct systematic sampling of tick populations in urban and peri-urban areas of selected cities over time to record their abundance, distribution, and species diversity.\n1.2.b - Collect environmental, climatic, and urbanization data (e.g., land use, host population density, proximity to urban heat islands) to correlate with tick data.\n\n\nTask 1.3 - Pathogen screening and risk analysis\n1.3.a - Identify and characterize zoonotic pathogens in the sampled ticks using molecular and microbiological techniques.\n1.3.b - Assess public health risks by quantifying pathogen prevalence and evaluating their potential to cause human diseases.\n\n\nTask 1.4 - Database development\n1.4.a - Design and build a comprehensive database to store, manage, and analyze tick and environmental data. 1.4.b - Design and implement a GUI to ensure user-friendly access to the database for researchers and public health professionals, along with a GIS-based dynamic mapping system to visualize spatiotemporal changes in tick distribution and tick-bite risk.\n\n\nTask 1.5 - Statistical modeling of tick abundance\n1.5.a - Analyze relationships between tick abundance, pathogen prevalence, urbanization, host availability, and environmental variables using statistical and machine learning models.\n1.5.b - Provide a forecasting model of tick distribution and disease risks under different urbanization and climate scenarios.\n\n\nTask 1.6 - Policy-oriented recommendations\n1.6.a - Synthesize findings to identify critical urban planning strategies and public health interventions for mitigating tick-borne disease risks.\n1.6.b - Provide actionable recommendations tailored to specific city contexts, considering stakeholder input and resource constraints."
+  },
+  {
+    "objectID": "packageone.html#deliverables",
+    "href": "packageone.html#deliverables",
+    "title": "Work package 1. DPO extraction, Curation FAIR Compliance",
+    "section": "🚚 Deliverables:",
+    "text": "🚚 Deliverables:\n\nD1.1 - Curated DPO data lake + FAIR’ness checklist.\nD1.2 - DPO evaluation/sustainability infrastructure.\nD1.3 - FAIR & sustainability guidelines and training for DPO curation [white paper]\nD1.4 - Integrated pipeline for research cross-domain studies (complete analysis, de novo workflow, de novo dataset, de novo data query protocols, novel tools or models)"
+  },
+  {
+    "objectID": "packagefive.html",
+    "href": "packagefive.html",
+    "title": "Work package 5. OneTick management and knowledge transfer",
+    "section": "",
+    "text": "The OneTick management work package ensures effective coordination and smooth implementation of the project. The objectives are to oversee administrative, financial, and scientific progress, ensuring timely delivery of results while fostering collaboration among partners."
+  },
+  {
+    "objectID": "packagefive.html#objectivs",
+    "href": "packagefive.html#objectivs",
+    "title": "Work package 5. OneTick management and knowledge transfer",
+    "section": "",
+    "text": "The OneTick management work package ensures effective coordination and smooth implementation of the project. The objectives are to oversee administrative, financial, and scientific progress, ensuring timely delivery of results while fostering collaboration among partners."
+  },
+  {
+    "objectID": "packagefive.html#tasks",
+    "href": "packagefive.html#tasks",
+    "title": "Work package 5. OneTick management and knowledge transfer",
+    "section": "🚧 Tasks",
+    "text": "🚧 Tasks\n\nTask 5.1 - Transparent and efficient project administration, monitoring and communication\n\n\nTask 5.2 - Monitoring the project implementation and reporting\n\n\nTask 5.3 - Keeping an eye on the project’s compliance with ethical and legal standards\n\n\nTask 5.5 - Organization of administrative staff secondments\n\n\nTask 5.6 - Risk and sustainability management\n\n\nTask 1.1 - Standardization of the tick collection protocols"
+  },
+  {
+    "objectID": "packagefive.html#deliverables",
+    "href": "packagefive.html#deliverables",
+    "title": "Work package 5. OneTick management and knowledge transfer",
+    "section": "🚚 Deliverables:",
+    "text": "🚚 Deliverables:\n• D5.1 - Data management plan and its updates.\n• D5.2 - Periodic progress reports.\n• D5.3 - Final project report summarizing outcomes.\n• D5.4 - Secondment reports.\n• D5.5 - OneTick consortium meetings reports."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "Proposal successfully submitted\n\n\n\nMSCA\n\n\n\nToday the proposal for the MSCA Staff Exchanges was submitted\n\n\n\n\n\n\nFeb 5, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "\nOneTick\n",
     "section": "",
-    "text": "OneTick\n\n\nOneTick aims to enhance our understanding and management of tick-borne diseases in urban and peri-urban environments by integrating ecological, biomedical, and public health perspectives. We will address the interconnected health of humans, animals, and the environment by employing a One Health approach.\n\n\n\n\nInstitutes\n\n\nThis project brings together experts from various institutes to achieve the best possible outcome. The following institutes are part of the collaboration. More information about each institute and their team leaders can be found here.\nClick on an institution’s logo to visit its website.\n\n\n\n  \n    \n  \n  \n    \n  \n  \n    \n  \n  \n    \n  \n  \n  \n    \n  \n  \n    \n  \n    \n  \n  \n    \n  \n  \n    \n  \n  \n  \n    \n  \n  \n  \n    \n  \n  \n  \n    \n  \n\n\n\n\n\n\n\n\nMichał Burdukiewicz, Jarosław Chilimoniuk, and Anna Moniuszko-Malinowska receive funding in the PARP Eurogrant Competition\n\n\nA project led by Dr. Michał Burdukiewicz and Dr. Jarosław Chilimoniuk from the Bioinformatics and Multi-Omics Analysis Laboratory at the Clinical Research Centre, along with Professor Anna Moniuszko-Malinowska from the Department of Infectious Diseases and Neuroinfections at the Medical University of Białystok (MUB), has been selected for funding by the Polish Agency for Enterprise Development (PARP) under the FENG 02.12 “Eurogrant Grants - Call for Research Projects.”\nThis funding supports projects with high innovative and research potential.\nThe aim of this initiative by PARP is to enhance the innovation and international presence of Polish research organizations by increasing their involvement in EU programs managed centrally, particularly Horizon Europe.\nThe project titled OneTick, submitted by Michał Burdukiewicz, Anna Moniuszko-Malinowska, and Jarosław Chilimoniuk under the Marie Skłodowska-Curie Actions Staff Exchanges programme, seeks to establish a consortium focused on developing new diagnostic methods for tick-borne diseases. The innovation of the project lies in its adoption of the One Health approach, which integrates human, animal, and environmental health.\nThe funding awarded will help the team prepare their proposal for the Marie Skłodowska- Curie Actions Staff Exchanges programme and create informational materials for potential consortium partners. This will significantly increase their opportunities for international research collaboration.\nThe project is administratively supported by the Development and Evaluation Department at MUB."
+    "text": "OneTick aims to enhance our understanding and management of tick-borne diseases in urban and peri-urban environments by integrating ecological, biomedical, and public health perspectives. We will address the interconnected health of humans, animals, and the environment by employing a One Health approach.\n\n\n\n\nInstitutes\n\n\nThis project brings together experts from various institutes to achieve the best possible outcome. The following institutes are part of the collaboration. More information about each institute and their team leaders can be found here.\nClick on an institution’s logo to visit its website.\n\n\n\n  \n    \n  \n  \n    \n  \n  \n    \n  \n  \n    \n  \n  \n  \n    \n  \n  \n    \n  \n    \n  \n  \n    \n  \n  \n    \n  \n  \n  \n    \n  \n  \n  \n    \n  \n  \n  \n    \n  \n\n\n\n\n\n\n\n\nMichał Burdukiewicz, Jarosław Chilimoniuk, and Anna Moniuszko-Malinowska receive funding in the PARP Eurogrant Competition\n\n\nA project led by Dr. Michał Burdukiewicz and Dr. Jarosław Chilimoniuk from the Bioinformatics and Multi-Omics Analysis Laboratory at the Clinical Research Centre, along with Professor Anna Moniuszko-Malinowska from the Department of Infectious Diseases and Neuroinfections at the Medical University of Białystok (MUB), has been selected for funding by the Polish Agency for Enterprise Development (PARP) under the FENG 02.12 “Eurogrant Grants - Call for Research Projects.”\nThis funding supports projects with high innovative and research potential.\nThe aim of this initiative by PARP is to enhance the innovation and international presence of Polish research organizations by increasing their involvement in EU programs managed centrally, particularly Horizon Europe.\nThe project titled OneTick, submitted by Michał Burdukiewicz, Anna Moniuszko-Malinowska, and Jarosław Chilimoniuk under the Marie Skłodowska-Curie Actions Staff Exchanges programme, seeks to establish a consortium focused on developing new diagnostic methods for tick-borne diseases. The innovation of the project lies in its adoption of the One Health approach, which integrates human, animal, and environmental health.\nThe funding awarded will help the team prepare their proposal for the Marie Skłodowska- Curie Actions Staff Exchanges programme and create informational materials for potential consortium partners. This will significantly increase their opportunities for international research collaboration.\nThe project is administratively supported by the Development and Evaluation Department at MUB."
+  },
+  {
+    "objectID": "consortium.html",
+    "href": "consortium.html",
+    "title": "Consortium",
+    "section": "",
+    "text": "More information, including a map showing the locations of the contributing institutes, will be added shortly. We apologize for any inconvenience.\n\n  \n    \n      \n    \n    \n      \n        Medical University of Bialystok\n      \n      Contact person: Michał Burdukiewicz\n      Email Adress: michal.burdukiewicz@umb.edu.pl\n      Website: Click here\n      Contact person: Anna Moniuszko-Malinowska\n      Email Adress: neuroin@umb.edu.pl\n      Website: Click here\n    \n  \n\n  \n    \n      \n    \n    \n      \n        Rigshospitalet\n      \n      Contact person: Anne-Mette Lebech\n      Email Adress: Anne-Mette.Lebech@regionh.dk\n      Website: Click here\n    \n  \n\n  \n    \n      \n    \n    \n      \n        Freie Universität Berlin\n      \n      Contact person: Ard Nijhof\n      Email Adress: ard.nijhof@fu-berlin.de\n      Website: Click here\n    \n  \n\n  \n    \n      \n    \n    \n      \n        Biology Centre of the Czech Academy of Sciences\n      \n      Contact person: Václav Hönig\n      Email Adress: honig@paru.cas.cz\n      Website: Click here\n    \n  \n\n  \n    \n      \n    \n    \n      \n        Zecken Radar\n      \n      Contact person: Olaf Kahl\n      Email Adress: kahl@tick-radar.de\n      Website: Click here\n    \n  \n\n  \n    \n      \n    \n    \n      \n        USAMV Cluj\n      \n      Contact person: Andrei Daniel Mihalca\n      Email Adress: amihalca@usamvcluj.ro\n      Website: Click here\n    \n  \n\n\n  \n    \n      \n    \n    \n      \n        Sørlandet Sykehus\n      \n      Contact person: Randi Eikeland\n      Email Adress: randi.eikeland@sshf.no\n      Website: Click here\n    \n  \n\n  \n    \n      \n    \n    \n      \n        Länssjukhuset Ryhov\n      \n      Contact person: Per-Eric Lindgren\n      Email Adress: per-eric.lindgren@liu.se\n      Website: Click here\n    \n  \n\n  \n    \n      \n    \n    \n      \n        Rioja Salud\n      \n      Contact person: José A. Oteo\n      Email Adress: jaoteo@riojasalud.es\n      Website: Click here\n    \n  \n  \n    \n    \n      \n    \n    \n      \n        Södertörn University\n      \n      Contact person: Patrik Dinnetz\n      Email Adress: Patrik.dinnetz@sh.se\n      Website: Click here\n    \n  \n  \n    \n    \n      \n    \n    \n      \n        Pfizer\n      \n      Contact person: Andreas Pilz\n      Email Adress: Andreas.Pilz@Pfizer.com\n      Website: Click here\n    \n  \n\n    \n    \n      \n    \n    \n      \n        National Institute for Public Health and the Environment\n      \n      Contact person: Hein Sprong\n      Email Adress: Hein.Sprong@RIVM.nl\n      Website: Click here"
   },
   {
     "objectID": "events.html",
@@ -49,39 +112,18 @@
     "text": "This page will feature upcoming events, conferences, and workshops related to our project. Currently, there are no scheduled events. Please check back later for updates."
   },
   {
-    "objectID": "packageone.html",
-    "href": "packageone.html",
-    "title": "Work package 1. Ticks in urban and peri-urban areas in response to climate change",
+    "objectID": "news/2025_02_05.html",
+    "href": "news/2025_02_05.html",
+    "title": "Proposal successfully submitted",
     "section": "",
-    "text": "Work package 1 investigates the relationship between climate change, urbanization, and tick ecology, focusing on zoonotic risks in urban and peri-urban areas. We aim to assess how ticks adapt to human-dominated environments by studying their presence in locations such as gardens, playgrounds, and parks. We will use sampling techniques to compare tick abundance and species diversity, identify tick-borne disease pathogens, and explore cross-zone transmission pathways. We will also consider cities within various climate ranges to enhance our understanding of urban microclimates as drivers of biodiversity shifts. This interdisciplinary approach seeks to provide valuable insights into public health and urban resilience strategies."
-  },
-  {
-    "objectID": "packageone.html#objectivs",
-    "href": "packageone.html#objectivs",
-    "title": "Work package 1. Ticks in urban and peri-urban areas in response to climate change",
-    "section": "",
-    "text": "Work package 1 investigates the relationship between climate change, urbanization, and tick ecology, focusing on zoonotic risks in urban and peri-urban areas. We aim to assess how ticks adapt to human-dominated environments by studying their presence in locations such as gardens, playgrounds, and parks. We will use sampling techniques to compare tick abundance and species diversity, identify tick-borne disease pathogens, and explore cross-zone transmission pathways. We will also consider cities within various climate ranges to enhance our understanding of urban microclimates as drivers of biodiversity shifts. This interdisciplinary approach seeks to provide valuable insights into public health and urban resilience strategies."
-  },
-  {
-    "objectID": "packageone.html#tasks",
-    "href": "packageone.html#tasks",
-    "title": "Work package 1. Ticks in urban and peri-urban areas in response to climate change",
-    "section": "🚧 Tasks",
-    "text": "🚧 Tasks\n\nTask 1.1 - Standardization of the tick collection protocols\n1.1.a - Develop and implement standardized tick collection protocols, ensuring consistent and comparable data across all study sites.\n1.1.b - Train field teams on protocol adherence and incorporate quality control measures to minimize measurement variability.\n\n\nTask 1.2 - Data collection and field surveys\n1.2.a - Conduct systematic sampling of tick populations in urban and peri-urban areas of selected cities over time to record their abundance, distribution, and species diversity.\n1.2.b - Collect environmental, climatic, and urbanization data (e.g., land use, host population density, proximity to urban heat islands) to correlate with tick data.\n\n\nTask 1.3 - Pathogen screening and risk analysis\n1.3.a - Identify and characterize zoonotic pathogens in the sampled ticks using molecular and microbiological techniques.\n1.3.b - Assess public health risks by quantifying pathogen prevalence and evaluating their potential to cause human diseases.\n\n\nTask 1.4 - Database development\n1.4.a - Design and build a comprehensive database to store, manage, and analyze tick and environmental data. 1.4.b - Design and implement a GUI to ensure user-friendly access to the database for researchers and public health professionals, along with a GIS-based dynamic mapping system to visualize spatiotemporal changes in tick distribution and tick-bite risk.\n\n\nTask 1.5 - Statistical modeling of tick abundance\n1.5.a - Analyze relationships between tick abundance, pathogen prevalence, urbanization, host availability, and environmental variables using statistical and machine learning models.\n1.5.b - Provide a forecasting model of tick distribution and disease risks under different urbanization and climate scenarios.\n\n\nTask 1.6 - Policy-oriented recommendations\n1.6.a - Synthesize findings to identify critical urban planning strategies and public health interventions for mitigating tick-borne disease risks.\n1.6.b - Provide actionable recommendations tailored to specific city contexts, considering stakeholder input and resource constraints."
-  },
-  {
-    "objectID": "packageone.html#deliverables",
-    "href": "packageone.html#deliverables",
-    "title": "Work package 1. Ticks in urban and peri-urban areas in response to climate change",
-    "section": "🚚 Deliverables:",
-    "text": "🚚 Deliverables:\n• D1.1 - A detailed database and dynamic map illustrating temporal changes in tick distribution across urban and peri-urban areas in selected cities.\n• D1.2 - Identification of zoonotic pathogens in urban ticks and assessment of public health risks.\n• D1.3 - Modeling the relationships between tick abundance, disease risks, urbanization, host availability, and environmental conditions.\n• D1.4 - Recommendations for urban planning and public health policies to mitigate tick-borne disease risks.\n• D1.5 - Development of unified protocol for tick collection and reporting."
+    "text": "We are thrilled to announce that our proposal for the MSCA Staff Exchanges has been officially submitted!\nA huge thank you to everyone who contributed their time, expertise, and effort to make this possible. Your support, insights, and collaboration have been invaluable. We are incredibly grateful for the teamwork that brought us to this point.\nNow, we eagerly await the outcome and remain hopeful for a successful result. Fingers crossed!"
   },
   {
     "objectID": "overview.html",
     "href": "overview.html",
     "title": "\nOne Tick\n",
     "section": "",
-    "text": "One Tick\n\n\n::: text-boxo\n\nWork packages:\n\n\n\nTicks in urban and peri-urban areas in response to climate change\nThe impact of the interaction between tick, host and pathogens on disease occurrence through a tick-specific approach.\nDetection, symptoms and treatment of tick-borne diseases.\nDissemination and public health awareness.\nOneTick management and knowledge transfer."
+    "text": "Work packages:\n\n\n\nTicks in urban and peri-urban areas in response to climate change\nThe impact of the interaction between tick, host and pathogens on disease occurrence through a tick-specific approach.\nDetection, symptoms and treatment of tick-borne diseases.\nDissemination and public health awareness.\nOneTick management and knowledge transfer."
   },
   {
     "objectID": "packagefour.html",
@@ -138,47 +180,5 @@
     "title": "Work package 3. Detection, symptoms and treatment of tick-borne diseases",
     "section": "🚚 Deliverables:",
     "text": "🚚 Deliverables:\n• D3.1 - List of biomarkers that can aid diagnosis.\n• D3.2 - Standardized form for improvement of diagnostic and reporting systems.\n• D3.3 - Updated symptom database capable to support clinicians (human and veterinarian) in their diagnosis."
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News",
-    "section": "",
-    "text": "Proposal successfully submitted\n\n\n\nMSCA\n\n\n\nToday the proposal for the MSCA Staff Exchanges was submitted\n\n\n\n\n\n\nFeb 5, 2025\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "consortium.html",
-    "href": "consortium.html",
-    "title": "Consortium",
-    "section": "",
-    "text": "More information, including a map showing the locations of the contributing institutes, will be added shortly. We apologize for any inconvenience.\n\n  \n    \n      \n    \n    \n      \n        Medical University of Bialystok\n      \n      Contact person: Michał Burdukiewicz\n      Email Adress: michal.burdukiewicz@umb.edu.pl\n      Website: Click here\n      Contact person: Anna Moniuszko-Malinowska\n      Email Adress: neuroin@umb.edu.pl\n      Website: Click here\n    \n  \n\n  \n    \n      \n    \n    \n      \n        Rigshospitalet\n      \n      Contact person: Anne-Mette Lebech\n      Email Adress: Anne-Mette.Lebech@regionh.dk\n      Website: Click here\n    \n  \n\n  \n    \n      \n    \n    \n      \n        Freie Universität Berlin\n      \n      Contact person: Ard Nijhof\n      Email Adress: ard.nijhof@fu-berlin.de\n      Website: Click here\n    \n  \n\n  \n    \n      \n    \n    \n      \n        Biology Centre of the Czech Academy of Sciences\n      \n      Contact person: Václav Hönig\n      Email Adress: honig@paru.cas.cz\n      Website: Click here\n    \n  \n\n  \n    \n      \n    \n    \n      \n        Zecken Radar\n      \n      Contact person: Olaf Kahl\n      Email Adress: kahl@tick-radar.de\n      Website: Click here\n    \n  \n\n  \n    \n      \n    \n    \n      \n        USAMV Cluj\n      \n      Contact person: Andrei Daniel Mihalca\n      Email Adress: amihalca@usamvcluj.ro\n      Website: Click here\n    \n  \n\n\n  \n    \n      \n    \n    \n      \n        Sørlandet Sykehus\n      \n      Contact person: Randi Eikeland\n      Email Adress: randi.eikeland@sshf.no\n      Website: Click here\n    \n  \n\n  \n    \n      \n    \n    \n      \n        Länssjukhuset Ryhov\n      \n      Contact person: Per-Eric Lindgren\n      Email Adress: per-eric.lindgren@liu.se\n      Website: Click here\n    \n  \n\n  \n    \n      \n    \n    \n      \n        Rioja Salud\n      \n      Contact person: José A. Oteo\n      Email Adress: jaoteo@riojasalud.es\n      Website: Click here\n    \n  \n  \n    \n    \n      \n    \n    \n      \n        Södertörn University\n      \n      Contact person: Patrik Dinnetz\n      Email Adress: Patrik.dinnetz@sh.se\n      Website: Click here\n    \n  \n  \n    \n    \n      \n    \n    \n      \n        Pfizer\n      \n      Contact person: Andreas Pilz\n      Email Adress: Andreas.Pilz@Pfizer.com\n      Website: Click here\n    \n  \n\n    \n    \n      \n    \n    \n      \n        National Institute for Public Health and the Environment\n      \n      Contact person: Hein Sprong\n      Email Adress: Hein.Sprong@RIVM.nl\n      Website: Click here"
-  },
-  {
-    "objectID": "packagefive.html",
-    "href": "packagefive.html",
-    "title": "Work package 5. OneTick management and knowledge transfer",
-    "section": "",
-    "text": "The OneTick management work package ensures effective coordination and smooth implementation of the project. The objectives are to oversee administrative, financial, and scientific progress, ensuring timely delivery of results while fostering collaboration among partners."
-  },
-  {
-    "objectID": "packagefive.html#objectivs",
-    "href": "packagefive.html#objectivs",
-    "title": "Work package 5. OneTick management and knowledge transfer",
-    "section": "",
-    "text": "The OneTick management work package ensures effective coordination and smooth implementation of the project. The objectives are to oversee administrative, financial, and scientific progress, ensuring timely delivery of results while fostering collaboration among partners."
-  },
-  {
-    "objectID": "packagefive.html#tasks",
-    "href": "packagefive.html#tasks",
-    "title": "Work package 5. OneTick management and knowledge transfer",
-    "section": "🚧 Tasks",
-    "text": "🚧 Tasks\n\nTask 5.1 - Transparent and efficient project administration, monitoring and communication\n\n\nTask 5.2 - Monitoring the project implementation and reporting\n\n\nTask 5.3 - Keeping an eye on the project’s compliance with ethical and legal standards\n\n\nTask 5.5 - Organization of administrative staff secondments\n\n\nTask 5.6 - Risk and sustainability management\n\n\nTask 1.1 - Standardization of the tick collection protocols"
-  },
-  {
-    "objectID": "packagefive.html#deliverables",
-    "href": "packagefive.html#deliverables",
-    "title": "Work package 5. OneTick management and knowledge transfer",
-    "section": "🚚 Deliverables:",
-    "text": "🚚 Deliverables:\n• D5.1 - Data management plan and its updates.\n• D5.2 - Periodic progress reports.\n• D5.3 - Final project report summarizing outcomes.\n• D5.4 - Secondment reports.\n• D5.5 - OneTick consortium meetings reports."
   }
 ]

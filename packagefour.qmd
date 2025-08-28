@@ -1,5 +1,5 @@
 ---
-title: "Work package 4. Dissemination and public health awareness"
+title: "Work package 4.  Governance, Community Building & Training"
 format: html
 css: styles.css
 output: html_document
@@ -7,28 +7,39 @@ output: html_document
 
 ## 🎯 Objectivs
 
-This work package will develop a promotional strategy to share the results of this grant and promote evidence-based practices for treating tick-borne diseases. This will involve creating accessible educational materials, organizing workshops and conferences, and engaging with healthcare professionals, policymakers, and the public. A key focus will be countering misinformation from well-organized superficially scientific groups that undermine scientifically and clinically supported treatments. By collaborating with medical societies and policy-makers and utilizing digital platforms, the strategy aims to build trust in evidence-based practices, enhance awareness of accurate diagnostics and treatment options, and provide reliable information to patients and practitioners. Ultimately, this effort will help elevate the standard of care for tick-borne diseases nationally and internationally.
+This work package will develop a strategy to sustain and show the advantages of adapting the Bio-TAPERSTY in OMICS. This will involve training ambassadors, 
+creating accessible educational materials, organizing workshops and conferences, and obtaining annual reports about how Bio-TAPESTRY helps in reducing energy 
+consumption and CO2 footprint.
 
 ## 🚧 Tasks
 
-### Task 4.1 - Development of evidence-based guidelines and best practices policy.
 
- 4.1.a - Draft comprehensive, evidence-based guidelines for healthcare professionals on diagnosing, treating, and managing tick-borne diseases.  
- 4.1.b - Include practical recommendations to avoid the overuse of antibiotics and mitigate risks such as bacterial drug resistance.  
- 4.1.c - Emphasize strategies for accurate diagnosis to prevent mismanagement of conditions like cancer or autoimmune diseases.  
 
-### Task 4.2 - Project results promotion.
+### Task 4.1 - Train and operationalise the Bio-TAPERSTY ambassadors.
 
- 4.2.a  - Organize public events, conferences and scientific workshops to disseminate project findings to diverse audiences.  
- 4.2.b - Publish project results in academic journals.   
- 4.2.c - Spread developed guidelines and combat anti-vaccine misinformation on mainstream media.  
- 4.2.d - Engage with policymakers and public health authorities to integrate findings into national and regional health policies.  
+**4.1.a** -- Define ambassador role, core responsibilities and success indicators.   
+**4.1.b** -- Develop a concise ambassador training curriculum and materials.   
+**4.1.c** -- Deliver structured training sessions (remote + recorded) for partners nominated as ambassadors.   
+**4.1.d** -- Provide a lightweight toolkit for ambassadors (reporting template, FAQ, escalation path).   
+**4.1.e** -- Establish a reporting cadence and short activity log format for ambassador contributions.   
 
-### Task 4.3 - Monitoring, evaluation and improvement of dissemination activities.
 
- 4.3.a - Collect feedback from healthcare providers, policymakers, and the general public to refine communication strategies.  
+### Task 4.2 - Develop and release open-source training kits for omics researchers.
+
+**4.2.a** -- Define learning objectives on applying the recommender and repurposer to generate DPOs from omics data.   
+**4.2.b** -- Develop modular training materials with domain-specific examples and hands-on exercises.   
+**4.2.c** -- Pilot the kits with omics researchers, refine based on feedback, and publish as openly available resources (e.g. Galaxy Training Network, Tess, Zenodo).   
+
+
+
+### Task 4.3 - Produce annual adaptation report from partner feedback on Bio-TAPESTRY.
+
+**4.3.a** -- Design and deploy a targeted survey to testing partners/researchers after practical use of Bio-TAPESTRY.   
+**4.3.b** -- Analyse responses to identify strengths, gaps, and improvement priorities.   
+**4.3.c** -- Compile findings into an adaptation report with actionable recommendations and circulate to work pakages leaders.   
 
 ## 🚚 Deliverables:
 
-•	D4.1 - Guidelines and best practices report on diagnosing, treating, and managing tick-borne diseases addressed to healthcare providers and professionals.  
-•	D4.2 - Promotion of the project results on conferences, seminars, TV presentations and in the form of actively update project website and social media.  
+* **D4.1** -- Bio-TAPERSTY ambassadors Training 
+* **D4.2** -- Open-source training kits enabling omics researchers to maximise the value of their data with Bio-TAPERSTY
+* **D4.3** -- Adaptation report based on partners survey feedback following the use of Bio-TAPERSTY.

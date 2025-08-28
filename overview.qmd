@@ -19,7 +19,7 @@ sidebar: false
 <body class="overview">
 
 ::: text-boxoo
-<h1>One Tick</h1>
+<h1>Bio-TAPESTRY</h1>
 :::
 
 ::: text-boxo
@@ -148,13 +148,6 @@ sidebar: false
       <h2>Work Package 4</h2>
       <p>Dissemination and public health awareness</p>
       <a href="packagefour.qmd">View Details</a>
-    </div>
-    <!-- Work Package 5 -->
-    <div class="workpackage">
-      <img src="Logos/workpackage5.png" alt="Work Package 2 Icon">
-      <h2>Work Package 5</h2>
-      <p>OneTick management and knowledge transfer</p>
-      <a href="packagefive.qmd">View Details</a>
     </div>
   </div>
 </body>

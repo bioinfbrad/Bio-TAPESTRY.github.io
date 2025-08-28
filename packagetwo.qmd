@@ -1,5 +1,5 @@
 ---
-title: "Work package 2. The impact of the interaction between tick, host and pathogens on disease occurrence through a tick-specific approach"
+title: "Work package 2. Development of the DPOs Translator and Recommender"
 format: html
 css: styles.css
 output: html_document
@@ -7,33 +7,36 @@ output: html_document
 
 ## 🎯 Objectivs
 
-WP2 investigates the interactions among ticks, hosts, and pathogens to uncover the mechanisms underlying pathogen transmission, a characteristic known as vector competence, and disease occurrence. By identifying tick species with the highest vector competence and understanding their geographical distribution, this WP aims to elaborate risk assessments and develop tick control strategies. The insights gained will contribute to a predictive model for disease transmission risk, incorporating findings from WP1. To further emphasize the recycling aspect of the Six Rs of Sustainability, we plan to incorporate the genetic data of various tick species contributed by consortium members.
+WP2 developes an AI recomendation system that take advantage of the WP1 DPOs data lake to suppoert cross-domain omics research. 
+It translate the search quieries into domain specific isntructions across OMICs fields. Allowing researchers to optain the most relevent DPOs workflow for a single domain or 
+compine different domains to create a containarised DPO. Benchmarking and expert validation ensure recommendations are accurate, relevant, and reproducible.
+
 
 ## 🚧 Tasks
 
-### 2.1 - Literature review and data collection
 
- 2.1.a - Conduct a comprehensive review of existing studies utilizing existing studies on tick species, vector competence, host preferences, and pathogen transmission mechanisms.
 
-### Task 2.2 - Tick collection and laboratory analysis
+### Task 2.1 – Cross-domain DPO Translator
 
- 2.2.a - Collect tick samples across geographically diverse European urban locations.  
- 2.2.b - Perform laboratory analyses to identify tick species, assess their vector competence, and detect pathogens.  
- 2.2.c - Use molecular tools to characterize pathogen-host interactions and quantify pathogen infectivity.
+2.1.a – Design a linguistic framework to annotate data objects and tools across different omics domains (genomics, transcriptomics, proteomics, metabolomics).
+2.1.b – Train a natural language processing (NLP) model to translate scientific questions into domain-specific instructions for DPO retrieval and workflow execution.
+2.1.c – Integrate the translator with the DPO data lake to enable accurate cross-domain mapping without hallucination.
 
-### Task 2.3 - Pathogen-host interaction analysis
+### Task 2.2 – DPO Recommender
 
- 2.3.a - Study interactions between tick-borne pathogens and their hosts to identify factors influencing transmission dynamics.  
- 2.3.b - Explore host immune responses to tick-borne pathogens to understand the impact on disease occurrence.  
- 2.3.c - Identify specific conditions under which ticks most efficiently transmit pathogens.  
+2.2.a – Develop an AI-based recommender system to suggest relevant DPOs for a given scientific query.
+2.2.b – Implement mechanisms to combine or adapt DPOs from multiple domains, returning containerised workflows ready for execution.
+2.2.c – Ensure the recommender operates reliably in environments with limited GPU resources, using agent-style support models grounded in the curated DPO data lake.
 
-### Task 2.4 - Database update
+### Task 2.3 – DPO Recommender Benchmarking
 
- 2.4.a - Develop and maintain a centralized database cataloging European tick species, their vector competence, host preferences, and urban geographical distribution.  
- 2.4.b - Incorporate data from laboratory and field studies to ensure the database remains up-to-date and comprehensive.  
+2.3.a – Conduct cross-domain pilot studies to evaluate the relevance and accuracy of DPO recommendations.
+2.3.b – Collect expert assessments to verify that the recommended workflows meet domain-specific scientific needs.
+2.3.c – Analyse performance metrics, document benchmarking results, and identify areas for optimisation and improvement.
+
 
 ## 🚚 Deliverables:
 
-•	D2.1 - Database cataloging European tick species, their vector competence, host preferences, and geographical distribution  
-•	D2.2 - Machine learning model for assessing the risk of tick bites and following disease occurrence using data on human exposure and tick abundance predictions.  
-•	D2.3 - Guidelines for tick control strategy.
+*	**D2.1** - Data Processing Obect Translator  
+*	**D2.2** - Data processing object Recomender  
+*	**D2.3** - Cross-domain benschmark/application of the Data Proecssing Object Recommeder  

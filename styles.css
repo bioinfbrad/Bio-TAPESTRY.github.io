@@ -1,7 +1,10 @@
+/*-- scss:defaults --*/
+/*-- scss:rules --*/
+
 /* index page layout:
 /* Create a full-screen background for the index page */
 .index-page .hero-image {
-  background-image: url("Logos/Tick.jpg");
+  background-image: url("Logos/tapestry.png");
   background-size: cover; /* Ensures the image covers the entire viewport */
   background-position: center; /* Centers the image */
   background-attachment: fixed; /* Keeps the image fixed while scrolling */
@@ -16,7 +19,7 @@
 /* Fix für Mobilgeräte */
 @media (max-width: 768px) {
   .index-page .hero-image {
-    background-image: url("Logos/Tickphone.jpg");
+    background-image: url("Logos/tapestry.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed; 
@@ -79,7 +82,7 @@
 }
 
 .overview .manyTicks {
-  background-image: url("Logos/manyTicks.png");
+  background-image: url("Logos/manyticks.png");
   background-size: cover; /* Ensures full coverage */
   background-position: center top; /* Ensures correct start position */
   background-attachment: scroll; /* Makes it scrollable */

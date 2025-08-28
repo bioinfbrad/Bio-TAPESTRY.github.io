@@ -26,8 +26,6 @@ website:
             href: packagethree.qmd
           - text: Work Package 4
             href: packagefour.qmd
-          - text: Work Package 5
-            href: packagefive.qmd
       - text: News
         href: news.qmd
       - text: Events
