@@ -19,7 +19,7 @@
 /* Fix für Mobilgeräte */
 @media (max-width: 768px) {
   .index-page .hero-image {
-    background-image: url("Logos/tapestry.jpg");
+    background-image: url("Logos/tapestry_phone.png");
     background-size: cover;
     background-position: center;
     background-attachment: fixed; 

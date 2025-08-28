@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Work package 2. The impact of the interaction between tick, host and pathogens on disease occurrence through a tick-specific approach</title>
+<title>Work package 2. Development of the DPOs Translator and Recommender</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -71,9 +71,9 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Work package 2. The impact of the interaction between tick, host and pathogens on disease occurrence through a tick-specific approach">
+<meta property="og:title" content="Work package 2. Development of the DPOs Translator and Recommender">
 <meta property="og:description" content="">
-<meta name="twitter:title" content="Work package 2. The impact of the interaction between tick, host and pathogens on disease occurrence through a tick-specific approach">
+<meta name="twitter:title" content="Work package 2. Development of the DPOs Translator and Recommender">
 <meta name="twitter:description" content="">
 <meta name="twitter:card" content="summary">
 </head>
@@ -131,10 +131,6 @@ ul.task-list li input[type="checkbox"] {
     <a class="dropdown-item" href="./packagefour.html">
  <span class="dropdown-text">Work Package 4</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="./packagefive.html">
- <span class="dropdown-text">Work Package 5</span></a>
-  </li>  
     </ul>
   </li>
   <li class="nav-item">
@@ -164,10 +160,9 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#objectivs" id="toc-objectivs" class="nav-link active" data-scroll-target="#objectivs">🎯 Objectivs</a></li>
   <li><a href="#tasks" id="toc-tasks" class="nav-link" data-scroll-target="#tasks">🚧 Tasks</a>
   <ul class="collapse">
-  <li><a href="#literature-review-and-data-collection" id="toc-literature-review-and-data-collection" class="nav-link" data-scroll-target="#literature-review-and-data-collection">2.1 - Literature review and data collection</a></li>
-  <li><a href="#task-2.2---tick-collection-and-laboratory-analysis" id="toc-task-2.2---tick-collection-and-laboratory-analysis" class="nav-link" data-scroll-target="#task-2.2---tick-collection-and-laboratory-analysis">Task 2.2 - Tick collection and laboratory analysis</a></li>
-  <li><a href="#task-2.3---pathogen-host-interaction-analysis" id="toc-task-2.3---pathogen-host-interaction-analysis" class="nav-link" data-scroll-target="#task-2.3---pathogen-host-interaction-analysis">Task 2.3 - Pathogen-host interaction analysis</a></li>
-  <li><a href="#task-2.4---database-update" id="toc-task-2.4---database-update" class="nav-link" data-scroll-target="#task-2.4---database-update">Task 2.4 - Database update</a></li>
+  <li><a href="#task-2.1-cross-domain-dpo-translator" id="toc-task-2.1-cross-domain-dpo-translator" class="nav-link" data-scroll-target="#task-2.1-cross-domain-dpo-translator">Task 2.1 – Cross-domain DPO Translator</a></li>
+  <li><a href="#task-2.2-dpo-recommender" id="toc-task-2.2-dpo-recommender" class="nav-link" data-scroll-target="#task-2.2-dpo-recommender">Task 2.2 – DPO Recommender</a></li>
+  <li><a href="#task-2.3-dpo-recommender-benchmarking" id="toc-task-2.3-dpo-recommender-benchmarking" class="nav-link" data-scroll-target="#task-2.3-dpo-recommender-benchmarking">Task 2.3 – DPO Recommender Benchmarking</a></li>
   </ul></li>
   <li><a href="#deliverables" id="toc-deliverables" class="nav-link" data-scroll-target="#deliverables">🚚 Deliverables:</a></li>
   </ul>
@@ -178,7 +173,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Work package 2. The impact of the interaction between tick, host and pathogens on disease occurrence through a tick-specific approach</h1>
+<h1 class="title">Work package 2. Development of the DPOs Translator and Recommender</h1>
 </div>
 
 
@@ -197,30 +192,21 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="objectivs" class="level2">
 <h2 class="anchored" data-anchor-id="objectivs">🎯 Objectivs</h2>
-<p>WP2 investigates the interactions among ticks, hosts, and pathogens to uncover the mechanisms underlying pathogen transmission, a characteristic known as vector competence, and disease occurrence. By identifying tick species with the highest vector competence and understanding their geographical distribution, this WP aims to elaborate risk assessments and develop tick control strategies. The insights gained will contribute to a predictive model for disease transmission risk, incorporating findings from WP1. To further emphasize the recycling aspect of the Six Rs of Sustainability, we plan to incorporate the genetic data of various tick species contributed by consortium members.</p>
+<p>WP2 developes an AI recomendation system that take advantage of the WP1 DPOs data lake to suppoert cross-domain omics research. It translate the search quieries into domain specific isntructions across OMICs fields. Allowing researchers to optain the most relevent DPOs workflow for a single domain or compine different domains to create a containarised DPO. Benchmarking and expert validation ensure recommendations are accurate, relevant, and reproducible.</p>
 </section>
 <section id="tasks" class="level2">
 <h2 class="anchored" data-anchor-id="tasks">🚧 Tasks</h2>
-<section id="literature-review-and-data-collection" class="level3">
-<h3 class="anchored" data-anchor-id="literature-review-and-data-collection">2.1 - Literature review and data collection</h3>
-<p>2.1.a - Conduct a comprehensive review of existing studies utilizing existing studies on tick species, vector competence, host preferences, and pathogen transmission mechanisms.</p>
+<section id="task-2.1-cross-domain-dpo-translator" class="level3">
+<h3 class="anchored" data-anchor-id="task-2.1-cross-domain-dpo-translator">Task 2.1 – Cross-domain DPO Translator</h3>
+<p>2.1.a – Design a linguistic framework to annotate data objects and tools across different omics domains (genomics, transcriptomics, proteomics, metabolomics). 2.1.b – Train a natural language processing (NLP) model to translate scientific questions into domain-specific instructions for DPO retrieval and workflow execution. 2.1.c – Integrate the translator with the DPO data lake to enable accurate cross-domain mapping without hallucination.</p>
 </section>
-<section id="task-2.2---tick-collection-and-laboratory-analysis" class="level3">
-<h3 class="anchored" data-anchor-id="task-2.2---tick-collection-and-laboratory-analysis">Task 2.2 - Tick collection and laboratory analysis</h3>
-<p>2.2.a - Collect tick samples across geographically diverse European urban locations.<br>
-2.2.b - Perform laboratory analyses to identify tick species, assess their vector competence, and detect pathogens.<br>
-2.2.c - Use molecular tools to characterize pathogen-host interactions and quantify pathogen infectivity.</p>
+<section id="task-2.2-dpo-recommender" class="level3">
+<h3 class="anchored" data-anchor-id="task-2.2-dpo-recommender">Task 2.2 – DPO Recommender</h3>
+<p>2.2.a – Develop an AI-based recommender system to suggest relevant DPOs for a given scientific query. 2.2.b – Implement mechanisms to combine or adapt DPOs from multiple domains, returning containerised workflows ready for execution. 2.2.c – Ensure the recommender operates reliably in environments with limited GPU resources, using agent-style support models grounded in the curated DPO data lake.</p>
 </section>
-<section id="task-2.3---pathogen-host-interaction-analysis" class="level3">
-<h3 class="anchored" data-anchor-id="task-2.3---pathogen-host-interaction-analysis">Task 2.3 - Pathogen-host interaction analysis</h3>
-<p>2.3.a - Study interactions between tick-borne pathogens and their hosts to identify factors influencing transmission dynamics.<br>
-2.3.b - Explore host immune responses to tick-borne pathogens to understand the impact on disease occurrence.<br>
-2.3.c - Identify specific conditions under which ticks most efficiently transmit pathogens.</p>
-</section>
-<section id="task-2.4---database-update" class="level3">
-<h3 class="anchored" data-anchor-id="task-2.4---database-update">Task 2.4 - Database update</h3>
-<p>2.4.a - Develop and maintain a centralized database cataloging European tick species, their vector competence, host preferences, and urban geographical distribution.<br>
-2.4.b - Incorporate data from laboratory and field studies to ensure the database remains up-to-date and comprehensive.</p>
+<section id="task-2.3-dpo-recommender-benchmarking" class="level3">
+<h3 class="anchored" data-anchor-id="task-2.3-dpo-recommender-benchmarking">Task 2.3 – DPO Recommender Benchmarking</h3>
+<p>2.3.a – Conduct cross-domain pilot studies to evaluate the relevance and accuracy of DPO recommendations. 2.3.b – Collect expert assessments to verify that the recommended workflows meet domain-specific scientific needs. 2.3.c – Analyse performance metrics, document benchmarking results, and identify areas for optimisation and improvement.</p>
 </section>
 </section>
 <section id="deliverables" class="level2">
